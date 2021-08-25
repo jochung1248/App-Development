@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>586750088555-ugbtugl2c4c5fvu1jbk3b6ckv5e4rt5c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.586750088555-ugbtugl2c4c5fvu1jbk3b6ckv5e4rt5c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyABOI71lm2cLzdNWdh_-bvxJl7PhSKN4AQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>586750088555</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Joseph.Nez-Index</string>
+	<key>PROJECT_ID</key>
+	<string>nez-index</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nez-index.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:586750088555:ios:5dae9d03b38f105c23a82e</string>
+</dict>
+</plist>
